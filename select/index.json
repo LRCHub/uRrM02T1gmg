@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "黎明期",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-01-14T06:50:28.880215Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黎明期",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_黎明期_amazarashi.txt"
+    }
+  ]
+}
